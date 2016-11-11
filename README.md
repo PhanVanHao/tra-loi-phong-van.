@@ -1,7 +1,7 @@
 # tra-loi-phong-van.
 ##+ SE là gì ?
 
-Ghi tắt của software engineer dịch là kỹ sư phần mềm
+Ghi tắt của software engineer dịch là kỹ sư phần mềm , theo sát nghĩa ở đây là Software engineering là tạo ra phần mềm
 
 ##+ Tại sao bạn chọn SE ?
 
