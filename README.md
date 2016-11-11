@@ -5,7 +5,8 @@ Ghi tắt của software engineer dịch là kỹ sư phần mềm
 
 ##+ Tại sao bạn chọn SE ?
 
-Mình thích làm kỹ sư phần mềm , viết ra những gì mình thích , sử dụng những gì mình tạo ra, đồng thời có thể chia sẻ với mọi người 
+Mình thích làm kỹ sư phần mềm , viết ra những gì mình thích , sử dụng những gì mình tạo ra, đồng thời có thể chia sẻ với mọi người .
+Quan trọng là mình yêu nó :)
 
 ##  + Bạn thích App Mobie hay App Desk hay Asembly? Tại sao ?
 
